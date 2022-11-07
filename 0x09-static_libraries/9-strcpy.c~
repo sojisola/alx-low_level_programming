@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+** _islower - put 1 when is a uppercase
+** @dest: dest
+** @src: src
+** Return: 1 if is uppercase and 0 if is lowcase
+**/
+char *_strcpy(char *dest, char *src)
+{
+return (0);
+}

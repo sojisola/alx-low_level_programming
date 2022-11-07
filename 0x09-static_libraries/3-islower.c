@@ -1,0 +1,10 @@
+#include "main.h"
+/**
+** _islower - put 1 when is a uppercase
+** @c: takes in an integer
+** Return: 1 if is uppercase and 0 if is lowcase
+**/
+int _islower(int c)
+{
+return (0);
+}
