@@ -85,6 +85,7 @@ printf("  %-35s", "Version:");
 if (h[6] == EV_CURRENT)
 {
 printf("%d (current)\n", h[6]);
+}
 else if (h[6] != EV_CURRENT)
 {
 printf("%d\n", h[6]);
